@@ -1,0 +1,12 @@
+# SAT
+cerberus==1.3.2
+future==0.18.2
+satcfe==2.1
+satcomum==2.2
+satextrato==0.4
+unidecode==1.2.0
+PyESCPOS==0.4
+
+# Outros
+redis
+rq
